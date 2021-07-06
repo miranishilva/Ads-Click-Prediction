@@ -1,0 +1,2 @@
+# Ads-Click-Prediction
+**New to machine learning and data science? No question is too basic or too simple. Use this place to post any first-timer clarifying questions for the classification algorithm or related to datasets ** !This file contains demographics about customer and whether that customer clicked the ad and made the purchase . You this file to use classification algorithm to predict on the basis of demographics of customer as independent variable
